@@ -14,7 +14,8 @@ const Header = (props) => {
                 <nav>
                     <a href="/shop">Shop</a>
                     <a href="/review">Order Review</a>
-                    <a href="/manage">Manage Inventory</a>
+                    <a href="/inventory">Manage Inventory</a>
+                    <button className="btn btn-primary">Sign In</button>
                 </nav>
             </div>
             <div className="search-container">
